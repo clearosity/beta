@@ -1,0 +1,4 @@
+splash
+======
+
+Clearosity Splash Page
